@@ -1,3 +1,4 @@
 print("varun")
 print("var")
-v=0
+print("varun")
+print("varun")
