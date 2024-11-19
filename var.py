@@ -1,3 +1,3 @@
 print("varun")
 print("var")
-print("va")
+v=0
