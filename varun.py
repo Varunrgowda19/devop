@@ -1,4 +1,5 @@
 print("varun")
 print("varun")
 print("vjbkjn")
-print("vhvjeeb")
+a = 56
+print("vhvjeeb"+a)
